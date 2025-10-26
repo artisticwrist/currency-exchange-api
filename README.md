@@ -275,3 +275,6 @@ Example test cases:
 - **Caching**: Data is only updated via the `/countries/refresh` endpoint, ensuring controlled cache updates.
 - **Case-Insensitive Matching**: Country names are matched case-insensitively for updates and retrieval.
 - **Random Multiplier**: A new random value (1000–2000) is generated for each country on every refresh for `estimated_gdp` calculation.
+
+## Documentation
+https://web.postman.co/workspace/My-Workspace~c6706af0-70ac-4646-82b1-5846d3363f4f/folder/29651789-0ec5ca60-1dad-44fa-9196-e730ca4c41d8?action=share&source=copy-link&creator=29651789&ctx=documentation
